@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 thanks for visiting my Github
+
+- 🔭 I'm currently working as software developer in Santiago, Chile. 
+- 👀 I like to read other people's code for inspire myself.
+- ⚡ I like to help to others! [stackoverflow](https://stackoverflow.com/users/5816339/ene-salinas?tab=profile)
+
+
 
 <!--
 **ns4lin4s/ns4lin4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
