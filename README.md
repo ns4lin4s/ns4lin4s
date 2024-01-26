@@ -1,22 +1,23 @@
-### Hi there 👋 thanks for visiting my Github
+# 👋 Welcome to My Awesome Project! 
 
-- 🔭 I'm currently working as software developer in Santiago, Chile. 
-- 👀 I like to read other people's code for inspire myself.
-- ⚡ I like to help to others! [stackoverflow](https://stackoverflow.com/users/5816339/ene-salinas?tab=profile)
+Hey there! I'm [Your Name], a passionate Site Reliability Engineer (SRE) 🚀. This project focuses on automating, optimizing, and ensuring the high reliability of scalable systems.
 
+## 🛠️ Technologies Used
 
+- Infrastructure as Code: Terraform, Cloudformation
+- Container Orchestration: Docker, Kubernetes
+- Continuous Integration/Continuous Deployment (CI/CD) Githu Actions and AWS CodePipeline 
+- Monitoring and Alerting: PagerDuty, Grafana and New relic
+- Site Reliability Engineering (SRE) Practices
 
-<!--
-**ns4lin4s/ns4lin4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quick Start
 
-Here are some ideas to get you started:
+1. Clone the repository
+2. Follow the installation instructions in the `docs` directory.
+3. Start building resilient and efficient infrastructures!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+Feel free to reach out to me at [ns4lin4s@gmail.com] for any questions or collaborations.
+
+Let's make this project amazing together! 🌟
