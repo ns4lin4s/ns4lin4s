@@ -1,6 +1,6 @@
 # 👋 Welcome to my Github! 
 
-Hey there! I'm Nelson, a passionate Site Reliability Engineer (SRE) 🚀. This project focuses on automating, optimizing, and ensuring the high reliability of scalable systems.
+Hey there! I'm Nelson, a passionate Site Reliability Engineer (SRE) 🚀. My professional skills are focused on automating, optimizing, and ensuring the high reliability of scalable systems.
 
 ## 🛠️ Technologies
 
